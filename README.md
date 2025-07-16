@@ -1,6 +1,6 @@
 # 🚚 Sistema Gerenciador de Rotas entre Cidades
 
-Projeto feito para a disciplina de Matemática aplicada a computação. É sistema simples para gerenciar rotas e cidades utilizando grafos, desenvolvido em Python com as bibliotecas [NetworkX](https://networkx.org/) e [Matplotlib](https://matplotlib.org/). O objetivo principal é simular uma rede de rotas entre cidades, permitindo visualizar o grafo, buscar a melhor rota entre cidades, adicionar/remover cidades e estradas, tudo por meio de um menu interativo.
+Projeto feito para a disciplina de Matemática aplicada a computação. É sistema simples para gerenciar rotas e cidades utilizando grafos, desenvolvido em Python com as bibliotecas [NetworkX](https://networkx.org/) e [Matplotlib](https://matplotlib.org/). O objetivo principal é simular uma rede de entregas entre cidades, permitindo visualizar o grafo, buscar a melhor rota entre cidades, adicionar/remover cidades e estradas, tudo por meio de um menu interativo.
 
 ---
 
